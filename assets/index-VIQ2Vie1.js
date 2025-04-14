@@ -67843,7 +67843,7 @@ function kZ() {
             b.jsxs('span', {
               className: 'timeline-text top-[70%] left-[10%] text-right pr-4',
               children: [
-                'Google ',
+                'Varsity Tutor ',
                 b.jsx('br', {}),
                 b.jsxs('span', {
                   className: 'flex space-x-1',
@@ -67859,7 +67859,7 @@ function kZ() {
                         clipRule: 'evenodd',
                       }),
                     }),
-                    b.jsx('p', { children: 'UX Design Intern' }),
+                    b.jsx('p', { children: 'Capstone Project Design Lead' }),
                   ],
                 }),
               ],
