@@ -67646,7 +67646,7 @@ function kZ() {
             b.jsxs('span', {
               className: 'timeline-text top-[65%] left-[42%]',
               children: [
-                'Web3 startup ',
+                'Eth Tech ',
                 b.jsx('br', {}),
                 ' ',
                 b.jsxs('span', {
@@ -67663,7 +67663,7 @@ function kZ() {
                         clipRule: 'evenodd',
                       }),
                     }),
-                    b.jsx('p', { children: 'Sr. UX designer' }),
+                    b.jsx('p', { children: 'Product Designer' }),
                   ],
                 }),
               ],
