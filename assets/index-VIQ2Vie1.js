@@ -67605,7 +67605,7 @@ function kZ() {
             }),
             b.jsx('p', {
               className: 'timeline-text top-[35%] left-[13%]',
-              children: 'Casino navigation app',
+              children: 'Loan Status App',
             }),
             b.jsxs('span', {
               className: 'timeline-text top-[26%] left-[24%]',
@@ -67675,7 +67675,7 @@ function kZ() {
             b.jsxs('span', {
               className: 'timeline-text top-[34%] right-[20%]',
               children: [
-                'Google ',
+                'Varsity Tutor ',
                 b.jsx('br', {}),
                 b.jsxs('span', {
                   className: 'flex space-x-1',
@@ -67691,7 +67691,7 @@ function kZ() {
                         clipRule: 'evenodd',
                       }),
                     }),
-                    b.jsx('p', { children: 'UX design intern' }),
+                    b.jsx('p', { children: 'Design Lead' }),
                   ],
                 }),
               ],
