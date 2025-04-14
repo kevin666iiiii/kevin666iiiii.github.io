@@ -73964,7 +73964,7 @@ const cte = [
       bgColor: '#FDE8B1',
       tags: [{ name: 'Adobe Creative Suite' }],
       tagline:
-        'Collaboration between the AI agent and people to make decisions based on UVA sensors and historical data',
+        'Work with AZ Lab',
       name: 'peaem website',
       url: '/peaem',
       icon: !0,
