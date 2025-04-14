@@ -73959,7 +73959,7 @@ const cte = [
   ],
   hS = [
     {
-      title: 'US Navy Research - AI Agent Chatbot',
+      title: 'AZ Laboratories Dashboard Redesign',
       src: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6ImNhMTA3NzQyLTljY2MtNDZjOC1hZWU2LTUxMjE0M2YzNWQwMiIsIm5hbWUiOiJwMS5wbmciLCJkaXIiOiIifQ==',
       bgColor: '#FDE8B1',
       tags: [{ name: 'Adobe Creative Suite' }],
