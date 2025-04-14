@@ -67648,7 +67648,6 @@ function kZ() {
               children: [
                 'Eth Tech ',
                 b.jsx('br', {}),
-                ' ',
                 b.jsxs('span', {
                   className: 'flex space-x-1',
                   children: [
