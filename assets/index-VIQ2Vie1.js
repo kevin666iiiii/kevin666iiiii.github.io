@@ -67634,14 +67634,14 @@ function kZ() {
             b.jsxs('p', {
               className: 'timeline-text top-[59%] left-[20%]',
               children: [
-                'Energy engineering ',
+                'AZ Laboratories ',
                 b.jsx('br', {}),
-                ' Company web redesign',
+                ' Dashboard Redesign',
               ],
             }),
             b.jsx('p', {
               className: 'timeline-text top-[55%] left-[32%]',
-              children: 'Hospital mobile app',
+              children: 'Scooter Screen Redesign',
             }),
             b.jsxs('span', {
               className: 'timeline-text top-[65%] left-[42%]',
@@ -67670,7 +67670,7 @@ function kZ() {
             }),
             b.jsx('p', {
               className: 'timeline-text top-[68%] left-[55%]',
-              children: 'News editor dashboard',
+              children: 'YUPI: Urgent Care Design',
             }),
             b.jsxs('span', {
               className: 'timeline-text top-[34%] right-[20%]',
@@ -67782,7 +67782,7 @@ function kZ() {
             }),
             b.jsx('p', {
               className: 'timeline-text top-[10%] left-[9%] text-right pr-4',
-              children: 'Casino navigation app',
+              children: '',
             }),
             b.jsxs('span', {
               className: 'timeline-text top-[10%] right-[16%] text-left pl-4',
@@ -67815,7 +67815,7 @@ function kZ() {
             b.jsxs('span', {
               className: 'timeline-text top-[40%] left-[16%] text-right pr-4',
               children: [
-                'Web3 Startup ',
+                'Eth Tech ',
                 b.jsx('br', {}),
                 b.jsxs('span', {
                   className: 'flex space-x-1',
@@ -67831,7 +67831,7 @@ function kZ() {
                         clipRule: 'evenodd',
                       }),
                     }),
-                    b.jsx('p', { children: 'Senior UX Desiger' }),
+                    b.jsx('p', { children: 'Product Designer' }),
                   ],
                 }),
               ],
