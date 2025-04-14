@@ -67698,7 +67698,7 @@ function kZ() {
             }),
             b.jsxs('p', {
               className: 'timeline-text top-[40%] right-[10%]',
-              children: ['US Navy', b.jsx('br', {}), 'AI agent chatbot'],
+              children: ['GoValley', b.jsx('br', {}), 'UX Design Intern'],
             }),
             b.jsxs('span', {
               className: 'timeline-text top-[12%] left-[8%] flex space-x-1',
@@ -67716,7 +67716,7 @@ function kZ() {
                 }),
                 b.jsx('p', {
                   className: '',
-                  children: 'Bh',
+                  children: 'BA in CS @ UMN',
                 }),
               ],
             }),
