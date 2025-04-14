@@ -2090,6 +2090,16 @@ a {
   --twc-textColor: 0 0% 16.5%;
   --twc-sidebarText: 0 0% 27.8%;
   background-color: skyblue;
+  animation: fadeInBackground 2s ease-in-out forwards; 
+}
+/* 定义动画 */
+@keyframes fadeInBackground {
+  from {
+      background-color: rgba(0, 0, 0, 0); /* 初始背景完全透明 */
+  }
+  to {
+      background-color: skyblue; /* 最终背景不透明 */
+  }
 }
 
 .enso,

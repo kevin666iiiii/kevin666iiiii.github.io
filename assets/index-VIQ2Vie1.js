@@ -59005,12 +59005,12 @@ function Ic({ theme: n, color: e }) {
           b.jsx('path', {
             className: 'cls-1',
             d: 'M83.26,83.27c0,15.38,9.23,25.7,25.63,25.7s25.63-10.33,25.63-25.7-9.24-25.47-25.63-25.47-25.63,10.33-25.63,25.47Z',
-            fill: 'currentColor',
+            fill: '#ff0',
           }),
           b.jsx('path', {
             className: 'cls-1',
             d: 'M143,58.14V.76H-.85L19.7,13.15V162.33H1.23v3.67H143v-57.38h-.23c-21.71,39.93-45.03,53.25-72.27,53.7V4.43c27.24,.23,50.57,14.23,72.27,53.71h.23Z',
-            fill: 'currentColor',
+            fill: '#f00',
           }),
         ],
       }),
@@ -67565,7 +67565,7 @@ function kZ() {
               preserveAspectRatio: 'none',
               children: b.jsx($R, {
                 d: 'M0 10.4998C63.6667 -13.8335 186.441 -5.39313 267.5 187C350.5 384 561 537.5 804 428C1047 318.5 946.5 24.0997 1488.5 210.5',
-                stroke: '#C6C6C6',
+                stroke: '#f6f6C6',
                 strokeWidth: '1',
                 initial: {
                   pathLength: 0,
@@ -67716,7 +67716,7 @@ function kZ() {
                 }),
                 b.jsx('p', {
                   className: '',
-                  children: 'BS in Information Science @ UMich',
+                  children: 'Bh',
                 }),
               ],
             }),
@@ -67755,7 +67755,7 @@ function kZ() {
               T 50 300 
               T 50 450 
               T 50 600`,
-                stroke: '#C6C6C6',
+                stroke: '#f6f6C6',
                 strokeWidth: '1',
                 fill: 'none',
                 initial: { pathLength: 0 },
@@ -73960,7 +73960,7 @@ const cte = [
   hS = [
     {
       title: 'US Navy Research - AI Agent Chatbot',
-      src: '/homepage/other/navy.jpg',
+      src: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6ImNhMTA3NzQyLTljY2MtNDZjOC1hZWU2LTUxMjE0M2YzNWQwMiIsIm5hbWUiOiJwMS5wbmciLCJkaXIiOiIifQ==',
       bgColor: '#FDE8B1',
       tags: [{ name: 'Adobe Creative Suite' }],
       tagline:
