@@ -74275,8 +74275,8 @@ function mte() {
             className: `w-[90%] max-w-[240px] lg:w-auto lg:max-w-[1400px] mt-2 text-lg absolute z-10 text-[#616160] font-light 
       top-[50vh] left-[50%] transform -translate-x-1/2 -translate-y-1/2 text-center font-title xl:text-[1.1rem] 2xl:text-[1.2rem] 2xl:leading-relaxed`,
             children: [
-              "Hi, I'm Ember. Bridging ",
-              b.jsx('strong', { children: 'computer science and art' }),
+              "Hi, I'm Kevin. Bridging ",
+              b.jsx('strong', { children: 'computer science and design' }),
               ',',
               ' ',
               `
