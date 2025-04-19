@@ -73970,7 +73970,7 @@ const cte = [
       icon: !0,
     },
     {
-      title: '1Cademy Collaborative Platform',
+      title: 'Loan Status App',
       src: '/homepage/other/1cademy.jpg',
       url: '/1cademy',
       bgColor: '#212121',
@@ -73982,7 +73982,7 @@ const cte = [
         '1Cademy is a research group sponsored by Google Cloud, Honor Education, and the University of Michigan. Our mission is to develop a collaborative learning platform for students, professors, and researchers.',
     },
     {
-      title: 'We Beat - Healthcare Mobile App',
+      title: 'Eth Tech Smart Watch Screen Interface',
       src: '/homepage/other/wb.jpg',
       bgColor: '#EAF6F6',
       tags: [],
@@ -73993,7 +73993,7 @@ const cte = [
       icon: !0,
     },
     {
-      title: 'Individual Responsive Website Project',
+      title: 'Scooter Screen Redesign',
       src: '/homepage/other/individual.jpg',
       bgColor: '#4A5E69',
       tags: [
