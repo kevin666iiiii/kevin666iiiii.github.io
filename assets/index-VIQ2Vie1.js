@@ -67680,7 +67680,7 @@ function kZ() {
               ],
             }),
             b.jsxs('p', {
-              className: 'timeline-text top-[50%] right-[10%]',
+              className: 'timeline-text top-[45%] right-[10%]',
               children: ['GoValley',
                 b.jsx('br', {}),
                 b.jsxs('span', {
