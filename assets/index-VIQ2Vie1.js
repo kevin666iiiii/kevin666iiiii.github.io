@@ -73993,20 +73993,7 @@ const cte = [
       url: '/wb',
       icon: !0,
     },
-    {
-      title: 'Scooter Screen Redesign',
-      src: '/homepage/other/individual.jpg',
-      bgColor: '#4A5E69',
-      tags: [
-        { name: 'Accessibility' },
-        { name: 'HTML, CSS, JS' },
-        { name: 'Responsive Design' },
-      ],
-      tagline: 'Design + development from start to finish',
-      name: 'individual website project',
-      url: '/individual',
-      icon: !0,
-    },
+
    
   ],
   dte = () => {
