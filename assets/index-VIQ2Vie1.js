@@ -60788,7 +60788,7 @@ function k7() {
 var YD = k7()
 function ZD() {
   const [n, e] = X.useState('Copy Email'),
-    t = 'emberuiux@gmail.com',
+    t = 'kevinshangjd@outlook.com',
     i = () => {
       navigator.clipboard.writeText(t).then(() => {
         e('Copied!'),
@@ -67500,7 +67500,7 @@ function nT({ theme: n = 'home', goBackHome: e = 'false' }) {
               children: 'Go back home',
             }),
           b.jsx('a', {
-            href: 'https://www.linkedin.com/in/ember-shan',
+            href: 'https://www.linkedin.com/in/jingdi-shang-bb7997326/',
             target: '_blank',
             rel: 'noopener noreferrer',
             className: 'text-primary hover:animate-bounce easeAnimateStyle',
@@ -67521,7 +67521,7 @@ function nT({ theme: n = 'home', goBackHome: e = 'false' }) {
           b.jsxs('p', {
             className: 'text-sm ',
             children: [
-              '© Created by Ember Shan in React.js powered by a bit too much coffee',
+              '© Created by Kevin Shang in React.js powered by a bit too much coffee',
               ' ',
             ],
           }),
