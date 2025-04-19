@@ -60881,7 +60881,7 @@ function KD({ sidebarItems: n, defaultVisible: e = !1 }) {
           className: 'pb-8 space-y-6 flex flex-col items-center',
           children: [
             b.jsx(Fs, {
-              to: '/resume',
+              to: 'https://drive.google.com/file/d/1x0IfRcSya0QHLNnvTa5V4on2boSD8csL/view',
               children: b.jsxs('span', {
                 className:
                   'flex flex-row hover:underline text-gray-500 items-center',
@@ -67493,7 +67493,7 @@ function nT({ theme: n = 'home', goBackHome: e = 'false' }) {
             href: 'mailto:emberuiux@gmail.com',
             className:
               'text-primary hover:animate-bounce easeAnimateStyle py-1',
-            children: 'emberuiux@gmail.com',
+            children: 'kevinshangjd@outlook.com',
           }),
         ],
       }),
@@ -74007,21 +74007,7 @@ const cte = [
       url: '/individual',
       icon: !0,
     },
-    {
-      title: 'MotorCity Casino Navigation App',
-      src: '/homepage/other/casino.jpg',
-      bgColor: '#AFC1CB',
-      tags: [
-        { name: 'Figma Prototype' },
-        { name: 'Project Management' },
-        { name: 'React' },
-      ],
-      tagline:
-        'Collaboration with hardware and software students to build a navigation app demo',
-      name: 'motorcity app',
-      url: '/casino',
-      icon: !0,
-    },
+   
   ],
   dte = () => {
     const [n, e] = X.useState(hS[0].src),
