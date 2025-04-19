@@ -67699,6 +67699,7 @@ function kZ() {
                     }),
                     b.jsx('p', { children: 'GoValley UX Design Intern' }),
                   ],
+                }),],
             }),
             b.jsxs('span', {
               className: 'timeline-text top-[12%] left-[8%] flex space-x-1',
