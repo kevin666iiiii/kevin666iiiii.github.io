@@ -67680,7 +67680,7 @@ function kZ() {
               ],
             }),
             b.jsxs('p', {
-              className: 'timeline-text top-[45%] right-[10%]',
+              className: 'timeline-text top-[4%] right-[10%]',
               children: ['GoValley',
                 b.jsx('br', {}),
                 b.jsxs('span', {
@@ -73961,7 +73961,7 @@ const cte = [
   hS = [
     {
       title: 'AZ Laboratories Dashboard Redesign',
-      src: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6ImNhMTA3NzQyLTljY2MtNDZjOC1hZWU2LTUxMjE0M2YzNWQwMiIsIm5hbWUiOiJwMS5wbmciLCJkaXIiOiIifQ==',
+      src: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6IjQ3NmMzMDM5LTRkMmYtNDY2MS1iODMzLWE4M2VmYTU2ZmFlNSIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTg1ODcyMzY0MDI3NDQwODY4OTcmc2tleT1AY3J5cHRfYWFlYjEyNDJfNmVlYzA2NGNlNTdiMDljMjFiOGEwNzVkOGJmMzNlYjgmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
       bgColor: '#FDE8B1',
       tags: [{ name: 'Adobe Creative Suite' }],
       tagline:
@@ -73972,7 +73972,7 @@ const cte = [
     },
     {
       title: 'Loan Status App',
-      src: '/homepage/other/1cademy.jpg',
+      src: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6IjQ3NmMzMDM5LTRkMmYtNDY2MS1iODMzLWE4M2VmYTU2ZmFlNSIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTg1ODcyMzY0MDI3NDQwODY4OTcmc2tleT1AY3J5cHRfYWFlYjEyNDJfNmVlYzA2NGNlNTdiMDljMjFiOGEwNzVkOGJmMzNlYjgmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
       url: '/1cademy',
       bgColor: '#212121',
       tags: [],
@@ -73984,7 +73984,7 @@ const cte = [
     },
     {
       title: 'Eth Tech Smart Watch Screen Interface',
-      src: '/homepage/other/wb.jpg',
+      src: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6ImI2YWY3MWNhLWJkNDgtNDA0OC1iMmFhLWVkZTQxZmVmMjJjNiIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTQ5MjYzMjk1NjIyMDA5Mjg3NDYmc2tleT1AY3J5cHRfYWFlYjEyNDJfNmVlYzA2NGNlNTdiMDljMjFiOGEwNzVkOGJmMzNlYjgmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
       bgColor: '#EAF6F6',
       tags: [],
       tagline: 'Resiliency training app for C.S. Mott Hospital at UMich',
@@ -74277,7 +74277,7 @@ function mte() {
               children: [
                 b.jsx(fy, {
                   ProjectSrc: '/enso',
-                  imgSrc: '/homepage/enso.jpg',
+                  imgSrc: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6ImYyNGQxOWRmLTY0MGYtNGI3ZC1iODdkLTcyNjQ0MTE0ZGE5YyIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTM1NzU1ODY3OTcwODcwNjg4OTkmc2tleT1AY3J5cHRfYWFlYjEyNDJfNmVlYzA2NGNlNTdiMDljMjFiOGEwNzVkOGJmMzNlYjgmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
                   title:
                     'Web3-encrypted app for secure enterprise collaboration',
                   description: 'Sole designer from concept to launch',
@@ -74290,7 +74290,7 @@ function mte() {
                 }),
                 b.jsx(fy, {
                   ProjectSrc: '/google',
-                  imgSrc: '/homepage/google.jpg',
+                  imgSrc: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6IjdjYWJhMzcxLWU5ZDEtNDVkMC1hY2ExLWEwMWQzNjI3NWQwMCIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTYxNzQxOTQ1NDk1ODA5MDczNSZza2V5PUBjcnlwdF9hYWViMTI0Ml82ZWVjMDY0Y2U1N2IwOWMyMWI4YTA3NWQ4YmYzM2ViOCZtbXdlYl9hcHBpZD13eF93ZWJmaWxlaGVscGVyLmpmaWYiLCJkaXIiOiIifQ==',
                   title:
                     '[Google Internship] Consumer-facing development platform',
                   description:
@@ -74324,7 +74324,7 @@ function mte() {
                 }),
                 b.jsx(fy, {
                   ProjectSrc: '',
-                  imgSrc: '/homepage/lock.jpg',
+                  imgSrc: 'http://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6IjEwZDAwODA2LWUyODYtNDUxNS04ZDg0LWQ5NzZlZjZlMzVlNyIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTUyMzM2MzAxODM2MjIwMTAxODEmc2tleT1AY3J5cHRfYWFlYjEyNDJfNmVlYzA2NGNlNTdiMDljMjFiOGEwNzVkOGJmMzNlYjgmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
                   title:
                     '[2025 Capstone] Surefront B2B Product Management Platform',
                   tags: [],
