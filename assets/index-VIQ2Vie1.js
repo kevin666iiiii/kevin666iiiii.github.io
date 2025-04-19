@@ -58996,11 +58996,6 @@ function Ic({ theme: n, color: e }) {
             z-50 w-[5%] max-w-[25px] xl:max-w-none xl:w-[1.5%] md:block fixed top-4 left-4 xl:top-[3%] xl:left-[2.65%] 
             ${e ? `${e}` : 'text-primary'} 
         `,
-      children: b.jsx('img', {
-        src: 'https://jingdiportfolio.com/img/pic/sign.gif',
-        alt: 't',
-        className: `w-full h-full object-cover  group-hover:scale-105 group-hover:brightness-[80%] easeAnimateStyle`,
-      }),
     }),
   })
 }
