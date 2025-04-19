@@ -58996,27 +58996,15 @@ function Ic({ theme: n, color: e }) {
             z-50 w-[5%] max-w-[25px] xl:max-w-none xl:w-[1.5%] md:block fixed top-4 left-4 xl:top-[3%] xl:left-[2.65%] 
             ${e ? `${e}` : 'text-primary'} 
         `,
-      children: b.jsxs('svg', {
-        id: 'Layer_1',
-        'data-name': 'Layer 1',
-        xmlns: 'http://www.w3.org/2000/svg',
-        viewBox: '0 0 143 166',
-        children: [
-          b.jsx('path', {
-            className: 'cls-1',
-            d: 'M83.26,83.27c0,15.38,9.23,25.7,25.63,25.7s25.63-10.33,25.63-25.7-9.24-25.47-25.63-25.47-25.63,10.33-25.63,25.47Z',
-            fill: '#ff0',
-          }),
-          b.jsx('path', {
-            className: 'cls-1',
-            d: 'M143,58.14V.76H-.85L19.7,13.15V162.33H1.23v3.67H143v-57.38h-.23c-21.71,39.93-45.03,53.25-72.27,53.7V4.43c27.24,.23,50.57,14.23,72.27,53.71h.23Z',
-            fill: '#f00',
-          }),
-        ],
+      children: b.jsx('img', {
+        src: 'https://jingdiportfolio.com/img/pic/sign.gif',
+        alt: 't',
+        className: `w-full h-full object-cover  group-hover:scale-105 group-hover:brightness-[80%] easeAnimateStyle`,
       }),
     }),
   })
 }
+
 var ci = {},
   Z0 = {},
   K0 = {},
