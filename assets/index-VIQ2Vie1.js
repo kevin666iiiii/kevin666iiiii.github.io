@@ -73961,7 +73961,7 @@ const cte = [
   hS = [
     {
       title: 'AZ Laboratories Dashboard Redesign',
-      src: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6IjQ3NmMzMDM5LTRkMmYtNDY2MS1iODMzLWE4M2VmYTU2ZmFlNSIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTg1ODcyMzY0MDI3NDQwODY4OTcmc2tleT1AY3J5cHRfYWFlYjEyNDJfNmVlYzA2NGNlNTdiMDljMjFiOGEwNzVkOGJmMzNlYjgmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
+      src:  'http://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6Ijg1OTRmZmQ2LTNjN2ItNDdjOC04NTg1LTU5ZWI5MWFiMDVkOSIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTgzNTgwNzE0MDAwNzE3MzA5ODEmc2tleT1AY3J5cHRfYWFlYjEyNDJfNmVlYzA2NGNlNTdiMDljMjFiOGEwNzVkOGJmMzNlYjgmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
       bgColor: '#FDE8B1',
       tags: [{ name: 'Adobe Creative Suite' }],
       tagline:
@@ -74027,7 +74027,7 @@ const cte = [
             children: b.jsx(OT.img, {
               src: n,
               alt: 'Selected Image',
-              className: 'hidden md:block h-full w-full object-cover',
+              className: 'hidden md:block h-full w-full object-contain',
               transition: { duration: 0.3 },
               initial: { opacity: 0 },
               animate: { opacity: 1 },
