@@ -74279,9 +74279,9 @@ function mte() {
                   ProjectSrc: '/enso',
                   imgSrc: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6ImYyNGQxOWRmLTY0MGYtNGI3ZC1iODdkLTcyNjQ0MTE0ZGE5YyIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTM1NzU1ODY3OTcwODcwNjg4OTkmc2tleT1AY3J5cHRfYWFlYjEyNDJfNmVlYzA2NGNlNTdiMDljMjFiOGEwNzVkOGJmMzNlYjgmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
                   title:
-                    'Web3-encrypted app for secure enterprise collaboration',
-                  description: 'Sole designer from concept to launch',
-                  tags: ['Design System', 'Functionality-First Design'],
+                    '[CMU 2024 Capstone] Varsity Tutor Dashboard Redesign',
+                  description: 'Worked as design lead in a team of five, from concept to launch.',
+                  tags: ['LLM & Dialogue Act', 'Lean Approach & MVP'],
                   borderDirection: ['bottom'],
                 }),
                 b.jsx('div', {
