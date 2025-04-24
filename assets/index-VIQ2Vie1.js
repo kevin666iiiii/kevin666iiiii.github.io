@@ -74299,7 +74299,7 @@ function mte() {
                     'Cross-Functional Collaboration',
                     'Developer Experience',
                   ],
-                  imagePos: 'object-right-top',
+              
                   borderDirection: ['bottom'],
                 }),
               ],
