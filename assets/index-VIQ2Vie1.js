@@ -77941,7 +77941,7 @@ function Bte() {
                 className: 'space-y-4',
                 children: [
                   b.jsxs('div', {
-                    className: '',
+                    className: 'http://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6ImQ0Y2Q4YmUyLTAxYmMtNGEzYy04NzcxLWIwNjQ3NGZjOGVjOCIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTQ1Nzc4NDU4OTcyMDE4MjkzMjMmc2tleT1AY3J5cHRfYWFlYjEyNDJfNWY1NGQzZWJmYWI3NjI0MmQ0NWFlMDNlM2U2MTRlZDUmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
                     children: [
                       b.jsx('h2', {
                         className: 'lg:text-left mb-2',
