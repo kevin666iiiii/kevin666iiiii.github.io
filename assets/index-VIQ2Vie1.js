@@ -74294,7 +74294,7 @@ function mte() {
                   title:
                     '[Urgent Care Design] Consumer-facing development platform',
                   description:
-                    'Pivoted health care direction, driving immediate and long-term solutions.',
+                    'Provide health care direction, driving immediate and long-term solutions.',
                   tags: [
                     'Cross-Functional Collaboration',
                     'Design System',
@@ -74326,7 +74326,7 @@ function mte() {
                   ProjectSrc: '',
                   imgSrc: 'http://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6IjEwZDAwODA2LWUyODYtNDUxNS04ZDg0LWQ5NzZlZjZlMzVlNyIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTUyMzM2MzAxODM2MjIwMTAxODEmc2tleT1AY3J5cHRfYWFlYjEyNDJfNmVlYzA2NGNlNTdiMDljMjFiOGEwNzVkOGJmMzNlYjgmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
                   title:
-                    '[2025 Capstone] Surefront B2B Product Management Platform',
+                    '[Class Project] Class Final Project Scooter Redesign ',
                   tags: [],
                   disabled: !0,
                 }),
