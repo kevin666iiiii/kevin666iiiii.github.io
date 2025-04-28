@@ -74292,7 +74292,7 @@ function mte() {
                   ProjectSrc: '/google',
                   imgSrc: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6IjdjYWJhMzcxLWU5ZDEtNDVkMC1hY2ExLWEwMWQzNjI3NWQwMCIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTYxNzQxOTQ1NDk1ODA5MDczNSZza2V5PUBjcnlwdF9hYWViMTI0Ml82ZWVjMDY0Y2U1N2IwOWMyMWI4YTA3NWQ4YmYzM2ViOCZtbXdlYl9hcHBpZD13eF93ZWJmaWxlaGVscGVyLmpmaWYiLCJkaXIiOiIifQ==',
                   title:
-                    '[Urgent Care Design] Consumer-facing development platform',
+                    '[Urgent Care Design] Consumer-Facing Development Platform',
                   description:
                     'Provide health care direction, driving immediate and long-term solutions.',
                   tags: [
@@ -77946,7 +77946,7 @@ function Bte() {
                       b.jsx('h2', {
                         className: 'lg:text-left mb-2',
                         children:
-                          'Restyle - redesigning the way we recycle fashion',
+                          'Redesign - Redesigning the Dashboard of GoValley Web Page',
                       }),
                       b.jsx('p', {
                         children: ' UX School Project, Oct - Nov 2022',
