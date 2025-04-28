@@ -74276,7 +74276,7 @@ function mte() {
                 'w-full flex flex-col lg:flex-row space-y-8 lg:space-y-0',
               children: [
                 b.jsx(fy, {
-                  ProjectSrc: '/enso',
+                  ProjectSrc: 'https://jingdiportfolio.com/detail_1.html',
                   imgSrc: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6ImYyNGQxOWRmLTY0MGYtNGI3ZC1iODdkLTcyNjQ0MTE0ZGE5YyIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTM1NzU1ODY3OTcwODcwNjg4OTkmc2tleT1AY3J5cHRfYWFlYjEyNDJfNmVlYzA2NGNlNTdiMDljMjFiOGEwNzVkOGJmMzNlYjgmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
                   title:
                     '[CMU 2024 Capstone] Varsity Tutor Dashboard Redesign',
@@ -74289,7 +74289,7 @@ function mte() {
                     'w-[1.5px] h-[29rem] bg-[#dddddd] mx-8 hidden lg:block',
                 }),
                 b.jsx(fy, {
-                  ProjectSrc: '/google',
+                  ProjectSrc: 'https://jingdiportfolio.com/detail_2.html',
                   imgSrc: 'https://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6IjdjYWJhMzcxLWU5ZDEtNDVkMC1hY2ExLWEwMWQzNjI3NWQwMCIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTYxNzQxOTQ1NDk1ODA5MDczNSZza2V5PUBjcnlwdF9hYWViMTI0Ml82ZWVjMDY0Y2U1N2IwOWMyMWI4YTA3NWQ4YmYzM2ViOCZtbXdlYl9hcHBpZD13eF93ZWJmaWxlaGVscGVyLmpmaWYiLCJkaXIiOiIifQ==',
                   title:
                     '[Urgent Care Design] Consumer-Facing Development Platform',
@@ -74309,7 +74309,7 @@ function mte() {
                 'flex flex-col lg:flex-row space-y-8 lg:space-y-0 lg:pt-5',
               children: [
                 b.jsx(fy, {
-                  ProjectSrc: '/restyle',
+                  ProjectSrc: 'https://jingdiportfolio.com/detail_3.html',
                   imgSrc: '/homepage/restyle.jpg',
                   title: '[Restyle] Redesigning the way we recycle fashion',
                   tags: [
@@ -74323,7 +74323,7 @@ function mte() {
                     'w-[1.5px] h-[29rem] bg-[#dddddd] mx-8 hidden lg:block',
                 }),
                 b.jsx(fy, {
-                  ProjectSrc: '',
+                  ProjectSrc: 'https://jingdiportfolio.com/detail_4.html',
                   imgSrc: 'http://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6IjEwZDAwODA2LWUyODYtNDUxNS04ZDg0LWQ5NzZlZjZlMzVlNyIsIm5hbWUiOiJfY2dpLWJpbl9tbXdlYnd4LWJpbl93ZWJ3eGdldG1zZ2ltZ19fJk1zZ0lEPTUyMzM2MzAxODM2MjIwMTAxODEmc2tleT1AY3J5cHRfYWFlYjEyNDJfNmVlYzA2NGNlNTdiMDljMjFiOGEwNzVkOGJmMzNlYjgmbW13ZWJfYXBwaWQ9d3hfd2ViZmlsZWhlbHBlci5qZmlmIiwiZGlyIjoiIn0=',
                   title:
                     '[Class Project] Class Final Project Scooter Redesign ',
