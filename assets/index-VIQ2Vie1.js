@@ -74255,7 +74255,7 @@ function mte() {
               ' ',
               `
 `,
-              'I craft experiences at the intersection of business and emotion, ',
+              'I craft experiences blending business and emotion, ',
               `
 `,
               ' where technology becomes human.',
