@@ -74255,10 +74255,10 @@ function mte() {
               ' ',
               `
 `,
-              'I design experiences, navigating business dynamics, ',
+              'I craft experiences at the intersection of business and emotion, ',
               `
 `,
-              ' where human emotions illuminate technology.',
+              ' where technology becomes human.',
             ],
           }),
         ],
