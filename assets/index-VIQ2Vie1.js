@@ -62521,7 +62521,11 @@ const fy = ({
             b.jsx('img', {
               src: e,
               alt: t,
+<<<<<<< HEAD
               className: `w-full h-full object-fill ${o} group-hover:scale-105 group-hover:brightness-[80%] easeAnimateStyle`
+=======
+              className: `w-full h-full object-cover ${o} group-hover:scale-105 group-hover:brightness-[80%] easeAnimateStyle`
+>>>>>>> edb031af40f263263ef3fd0750424a9e5f855c63
             }),
             b.jsx('div', {
               className: `absolute top-[50%] left-[50%] transform -translate-x-1/2 -translate-y-1/2 bg-white text-black text-lg px-6 py-1 
