@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "hfy-tools": "^2.1.6",
     "serve": "^14.2.4"
   }
 }
