@@ -68962,7 +68962,7 @@ function mte() {
                   className: 'w-[1.5px] h-[29rem] bg-[#dddddd] mx-8 hidden lg:block'
                 }),
                 b.jsx(fy, {
-                  ProjectSrc: 'https://kevin666iiiii.github.io/b.html',
+                  ProjectSrc: '/b.html',
                   imgSrc:
                     'http://jf-temp-1301446188.cos.ap-guangzhou.myqcloud.com/R09TUw==/eyJpZCI6IjFlYmJlYWU2LTVhYmQtNDAxMi1hY2UyLWYyMDUyNjFmN2VlNSIsIm5hbWUiOiLlvq7kv6Hlm77niYdfMjAyNjAzMDIxNzM5MTBfMjQ5XzU5LnBuZyIsImRpciI6ImJzYiJ9',
                   title: '[Work Project]China Shipbuilding Ai System Redesign',
